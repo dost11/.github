@@ -16,7 +16,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 비지니스 백엔드
-![Django](https://www.djangoproject.com/m/img/badges/djangomade124x25.gif)
+![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
 ![Django-ninja](https://img.shields.io/badge/django-ninja-blue)
 ![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
